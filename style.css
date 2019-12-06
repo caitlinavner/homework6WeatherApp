@@ -1,0 +1,18 @@
+h1 {
+  background-color: darkslategrey;
+  text-align: center;
+  color: white;
+}
+
+#ForecastCard {
+  text-align: center;
+  background-color: cornflowerblue;
+}
+
+#submitButton {
+    color: cornflowerblue;
+}
+
+#icon {
+    float: center;
+}
